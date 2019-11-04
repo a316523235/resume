@@ -172,7 +172,7 @@ $("document").ready(function(){
         $("#head-e").text("Resume").css("color","#73a9cb");
         $("#head-c").text("前端工程师").css("color","#73a9cb");
     }, function() {
-        $("#head-e").text("Huan").css("color","#333");
+        $("#head-e").text("WuLiyuan").css("color","#333");
         $("#head-c").text("个人简历").css("color","#333")
     
     });
