@@ -586,6 +586,8 @@ a{text-decoration: none;}
 
 .footer p{
     text-align: center;
+    font-size: 12px;
+    color: #666
 }
 
 /*
